@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                 purposeField = findViewById(R.id.editText4);
                 purpose = purposeField.getText().toString();
 
-                facultyField = findViewById(R.id.editText4);
+                facultyField = findViewById(R.id.editText5);
                 faculty = facultyField.getText().toString();
 
                 contactField = findViewById(R.id.editText6);
